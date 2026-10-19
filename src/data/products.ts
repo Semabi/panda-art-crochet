@@ -6,7 +6,7 @@
     categoriaId: 'Moda',
     descripcion: 'Bolso de mano tejido a crochet ',
     precioEstimado: 55000,
-    imagen: require('../../assets/images/Bolso de Mano.jpg'),
+    imagen: require('../../assets/images/bolso_mano.jpg'),
     emoji: '👜',
     disponible: true,
   },
